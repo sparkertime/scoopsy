@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.masthead, .greedy-nav {
+  background-color: #E9F1DF;
+}
+
+.masthead {
+  border-bottom: 1px solid #F2385A;
+}
+
+.greedy-nav a {
+  color: #F2385A;
+}
