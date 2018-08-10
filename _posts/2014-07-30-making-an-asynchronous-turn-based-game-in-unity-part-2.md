@@ -6,7 +6,7 @@ tags:   unity3d
 
 ![](/images/2014-07-30-screen-1.png)
 
-Now that I have a basic prototype that adheres to [the plan outlined in Part I-A](FIXME), it's time to build a server to support this game.
+Now that I have a basic prototype that adheres to [the plan outlined in Part I-A](//making-an-asynchronous-turn-based-game-in-unity-part-1-a), it's time to build a server to support this game.
 
 A longstanding (and totally hilarious) joke of mine is that I'll play any game with a "Next Turn" button. As such, I plan to build a server that can support not just Clans but any future turn-based strategy games I build. Ideally I'd even love to open-source the server portion and allow other, less technical developers to start making this kind of game so that I can start playing them. =)
 
@@ -16,8 +16,6 @@ As such, here are my design goals for this:
 2. Support multiple users
 3. Support users having multiple "sessions" in multiple "games" (a session is basically an instance of a game. In other words, "Clans" would be the game while my 1v1 game against Gourmand would be a "session")
 4. Support asynchronous chat within a session
-
-<br>
 
 So then, architecture: I initially plan to build this out as a [rails-api](https://github.com/rails-api/rails-api) application that primarily exists to persist game and chat state. The server will authenticate users and apps via OAuth2 password grants with each game as a different client.
 

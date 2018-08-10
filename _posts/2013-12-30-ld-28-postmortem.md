@@ -6,7 +6,7 @@ tags: unity3d ourmandragon
 
 ![](/images/2013-12-30-screen.png)
 
-When I [last submitted an Ludum Dare game](http://scoopsy.com/ld23-its-over-a-postmortem), I gave myself an MS Paint trophy. I submitted another game, one I daresay is a bit better than the last, so here's my reward.
+When I [last submitted an Ludum Dare game](/ld23-its-over-a-postmortem), I gave myself an MS Paint trophy. I submitted another game, one I daresay is a bit better than the last, so here's my reward.
 
 ![](/images/2013-12-30-trophy.jpg)
 _that's some CGI right there in case you can't tell._

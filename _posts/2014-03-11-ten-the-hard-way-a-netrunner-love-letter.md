@@ -4,7 +4,7 @@ date:   2014-03-11
 tags: netrunner
 ---
 
-![](2014-03-11-account-siphon.png)
+![](/images/2014-03-11-account-siphon.png)
 
 My megacorporation is on the wrong side of a wealthy Criminal playing a nasty Account Siphon. Not only would would that steal nearly half my credits, but it would boost his level of wealth from "Jay-Z" to "Scrooge McDuck." A single trace is my only chance to stop him and we both know it. If the trace succeeds then he's forced to end his run against my servers. My money would be safe, but for the trace to succeed I'd have to spend more credits then I stand to lose.
 

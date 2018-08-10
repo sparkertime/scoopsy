@@ -8,7 +8,7 @@ tags:   ludumdare
 
 13 hours of work come and gone, minus a game of Tobago and some insane CS humans-vs-bot action.
 
-The latest state of the game is [playable here](https://dl.dropboxusercontent.com/u/159702451/our-man-dragon/our-man-dragon.html). You can burn down the evil ork, or you can choose to turn on the innocent villagers and burn down the hut.
+The latest state of the game is playable. You can burn down the evil ork, or you can choose to turn on the innocent villagers and burn down the hut.
 
 So far so good. Tomorrow is all going to be about the two I's - AI and UI. The eventual game idea is to have ork lairs that spawn and gather orks for raids on the village. You have to go out and hunt these lairs to keep the village safe. Over time, more and more lairs spawn, and if enough are active at once, a great WAAAAUGH will form and they'll all rush the village. Not good.
 

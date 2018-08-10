@@ -4,7 +4,7 @@ date:   2014-06-14
 tags:   unity3d
 ---
 
-The nice thing about working with a bunch of friendly and clever folk at [Braintree](https://www.braintreepayments.com/careers) is that they are always willing to brainstorm on better ways of building software. "Clans" is no exception, and within 20 minutes of posting [Part I](http://citizenparker.com/post/88664157983/making-an-asynchronous-turn-based-game-in-unity-part-i) we[^1] had come up with a simpler way to build it.
+The nice thing about working with a bunch of friendly and clever folk at [Braintree](https://www.braintreepayments.com/careers) is that they are always willing to brainstorm on better ways of building software. "Clans" is no exception, and within 20 minutes of posting [Part I](/making-an-asynchronous-turn-based-game-in-unity-part-1/) we[^1] had come up with a simpler way to build it.
 
 ### In our last thrilling installment…
 I left off in Part I talking about running Unity on the server. It consisted of two parts:

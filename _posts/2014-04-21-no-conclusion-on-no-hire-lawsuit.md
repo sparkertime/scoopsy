@@ -3,7 +3,7 @@ title:  No Conclusion in No Hire Lawsuit?
 date:   2014-04-21
 ---
 
-The New York Times is [eporting this morning that a settlement is close](http://www.nytimes.com/2014/04/21/business/in-silicon-valley-thriller-a-settlement-may-preclude-the-finale.html?ref=business&_r=0) in the class-action lawsuit brought against Google, Apple, Intel, and Adobe for their discriminatory and illegal no-hire, no-solicit agreements amongst one another.
+The New York Times is [reporting this morning that a settlement is close](http://www.nytimes.com/2014/04/21/business/in-silicon-valley-thriller-a-settlement-may-preclude-the-finale.html?ref=business&_r=0) in the class-action lawsuit brought against Google, Apple, Intel, and Adobe for their discriminatory and illegal no-hire, no-solicit agreements amongst one another.
 
 For those who haven’t been watching this case, those four companies (and previously also Intuit, Lucasfilm, Pixar, and eBay, who have since settled for pittances) have been accused by potential employees as having an agreement not to hire employees from the other companies. The proceedings have already led to the [discovery of numerous emails documenting the process](http://pando.com/2014/03/25/newly-unsealed-documents-show-steve-jobs-brutally-callous-response-after-getting-a-google-employee-fired/)
 

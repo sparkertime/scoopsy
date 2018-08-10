@@ -4,7 +4,7 @@ date:   2014-06-08
 tags: unity3d
 ---
 
-After a period of game-making hibernation, today I found the time to get back into shape. [Previously](http://citizenparker.com/post/80121231323/braindump-on-the-next-game) I had teased about a strategy game called MUTANT OVERLORDS. As my design doc hit the 4,500th word for that game, I realized that perhaps it was beyond the scope of my current skills. I'd like to tackle it someday, but it's prudent to start on something less ambitious.
+After a period of game-making hibernation, today I found the time to get back into shape. [Previously](/braindump-on-the-next-game) I had teased about a strategy game called MUTANT OVERLORDS. As my design doc hit the 4,500th word for that game, I realized that perhaps it was beyond the scope of my current skills. I'd like to tackle it someday, but it's prudent to start on something less ambitious.
 
 "Clans" (very much a working title) is a simple asynchronous turn-based strategy game of hidden information. Drawing inspiration from the board game [Sekigahara](http://www.shutupandsitdown.com/blog/post/review-sekigahara/), victory in "Clans" will be achieved by surprising your enemy by your unit composition and choosing the right time to play "tactics" cards that can change the nature of battles:
 
