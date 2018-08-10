@@ -4,7 +4,7 @@ date:   2015-06-11
 tags: starwars rpg swrpg
 ---
 
-As I said when introducing my [compact NPC character sheet](FIXME), I hate clutter at the table. The FFG vehicle sheet is fantastic for my players’ ship as they want to track everything at a fair level of detail. Not only is that overkill for most NPC vehicles, but I also don’t want to have to remember “Okay, now which NPC sheet is the driver of this vehicle again?”
+As I said when introducing my [compact NPC character sheet](/ffg-star-wars-compact-npc-character-sheet/), I hate clutter at the table. The FFG vehicle sheet is fantastic for my players’ ship as they want to track everything at a fair level of detail. Not only is that overkill for most NPC vehicles, but I also don’t want to have to remember “Okay, now which NPC sheet is the driver of this vehicle again?”
 
 I made an combined sheet that condenses the most critical information on NPC vehicles and their crew. You can see it in action with the stats for a “CSA TAST-A”, a somewhat crap airspeeder used by CorpSec planetside police in my campaign:
 

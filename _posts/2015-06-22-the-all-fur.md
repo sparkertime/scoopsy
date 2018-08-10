@@ -1,8 +1,10 @@
 ---
-title:  Dead Authors Podcast Chapter 13 - Paul F. Tompkins as H.G. Wells, Matt Gourley and Jeremy Carter as the Brothers Grimm who are discussing their fairy tale, The All Fur.
+title:  The All Fur
 date:   2015-06-22
 tags: paulftompkins
 ---
+
+### Dead Authors Podcast Chapter 13 - Paul F. Tompkins as H.G. Wells, Matt Gourley and Jeremy Carter as the Brothers Grimm who are discussing their fairy tale, The All Fur.
 
 [via tumblr](http://energeticdragon.tumblr.com/post/116723250236/dead-authors-podcast-chapter-13-paul-f-tompkins)
 

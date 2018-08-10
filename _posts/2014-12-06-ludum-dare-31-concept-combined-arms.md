@@ -1,7 +1,7 @@
 ---
 title:  Ludum Dare 31 Concept - “Combined Arms”
 date:   2014-12-06
-tags: ld48 unity3d
+tags: ludumdare unity3d
 ---
 
 Unfortunately I didn’t have enough time this weekend to participate in this round of [Ludum Dare](http://ludumdare.com/compo/) so I’m sketching out what I would have attempted given the chance.
