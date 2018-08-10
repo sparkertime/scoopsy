@@ -1,7 +1,7 @@
 ---
 title:  FFG Star Wars Compact Vehicle Sheet
 date:   2015-06-11
-tags: starwars rpg
+tags: starwars rpg swrpg
 ---
 
 As I said when introducing my [compact NPC character sheet](FIXME), I hate clutter at the table. The FFG vehicle sheet is fantastic for my players’ ship as they want to track everything at a fair level of detail. Not only is that overkill for most NPC vehicles, but I also don’t want to have to remember “Okay, now which NPC sheet is the driver of this vehicle again?”
