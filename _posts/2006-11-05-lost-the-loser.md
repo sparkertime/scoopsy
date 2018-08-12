@@ -7,13 +7,13 @@ Day three of the **One Month of Daily Writing** pledge and I'm already feeling i
 
 That reminds me: _Lost_ watchers, is there still a button at all? Or was this replaced by a _strange_ Englishman walking around the jungle in a tophat, or maybe a coconut tree that is _strangely_ dropping coconuts made of waffles. I don't mean to be as condescending as I sound, but let's review facts here. 
 
-**Q**: What's out in the jungle?
+**Q**: What's out in the jungle?<br>
 **A**: A hatch.
 
-**Q**: Oh, well that's kind of interesting, I guess. What's in the hatch?
+**Q**: Oh, well that's kind of interesting, I guess. What's in the hatch?<br>
 **A**: A button.
 
-**Q**: A button? Hmm. Well, okay, they can do neat things, right? Maybe a really cool, kick ass button. What's it do?
+**Q**: A button? Hmm. Well, okay, they can do neat things, right? Maybe a really cool, kick ass button. What's it do?<br>
 **A**: Prevents a really bright light and the hatch collapsing.
 
 Keep in mind that I just summarized some 44 episodes. Sure, there's some other details thrown in around there too. People argue, a church is or is not built, drugs, babies, and flashbacks flashbacks FLASHBACKS! If Lost is a four-star meal (and given my appreciation of four-star dining, it may well be), then those details are kind of like the little fig leaves and tulip-shaped radish garnishes; while nice, they aren't really the point.

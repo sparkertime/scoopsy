@@ -4,7 +4,7 @@ date:   2005-11-30
 tags:   xanga
 ---
 
-> _Hi there, Scott from 2018 writing here. This is from my old Xanga account. I mostly post these because it makes me laugh at myself. I have no idea why you’d be reading this, but enjoy yourself. -SP
+> _Hi there, Scott from 2018 writing here. This is from my old Xanga account. I mostly post these because it makes me laugh at myself. I have no idea why you’d be reading this, but enjoy yourself. -SP_
 
 Since I don't really have the time to write entries for the foreseeable future, I'll write a few little bits about my life as of late.
 

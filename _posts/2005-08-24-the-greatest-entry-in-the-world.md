@@ -4,7 +4,7 @@ date:   2005-08-24
 tags:   xanga
 ---
 
-> _Hi there, Scott from 2018 writing here. This is from my old Xanga account. I mostly post these because it makes me laugh at myself. I have no idea why you’d be reading this, but enjoy yourself. -SP
+> _Hi there, Scott from 2018 writing here. This is from my old Xanga account. I mostly post these because it makes me laugh at myself. I have no idea why you’d be reading this, but enjoy yourself. -SP_
 
 So I've been sitting on this Xanga thing for a nice long time, trying to come up with the perfect topic for the first entry. Xanga politely reminds me that I've been a member for 85 days and haven't done anything yet. Thanks, Xanga.
 

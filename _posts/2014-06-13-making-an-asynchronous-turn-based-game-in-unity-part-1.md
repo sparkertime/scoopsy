@@ -4,7 +4,7 @@ date:   2014-06-13
 tags: unity3d
 ---
 
-In [my previous post on my next game project "Clans"](https://sparkertime.com/another-game-in-the-works-clans) I outlined the kind of asynchronous turn-based strategy game I want to make. I didn't discuss the implementation details though.
+In [my previous post on my next game project "Clans"](/another-game-in-the-works-clans) I outlined the kind of asynchronous turn-based strategy game I want to make. I didn't discuss the implementation details though.
 
 An asynchronous game implies there are persistent servers available to coordinate game state between players. I want to leave the option of an offline mode available, and I also need to make this easy to develop without having to run a server locally.
 

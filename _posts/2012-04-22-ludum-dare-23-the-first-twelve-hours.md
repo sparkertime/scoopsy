@@ -4,7 +4,7 @@ date:   2012-04-22
 tags:   ludumdare
 ---
 
-> tl;dr - screenshot at end, code at [github.com/citizenparker/the-two-of-us](github.com/citizenparker/the-two-of-us
+> tl;dr - screenshot at end, code at [github.com/citizenparker/the-two-of-us](github.com/citizenparker/the-two-of-us)
 
 More like my first four hours, as I really enjoy sleep. =)
 

@@ -6,7 +6,7 @@ tags:   unity3d
 
 ![](/images/2014-07-30-screen-1.png)
 
-Now that I have a basic prototype that adheres to [the plan outlined in Part I-A](//making-an-asynchronous-turn-based-game-in-unity-part-1-a), it's time to build a server to support this game.
+Now that I have a basic prototype that adheres to [the plan outlined in Part I-A](/making-an-asynchronous-turn-based-game-in-unity-part-1-a), it's time to build a server to support this game.
 
 A longstanding (and totally hilarious) joke of mine is that I'll play any game with a "Next Turn" button. As such, I plan to build a server that can support not just Clans but any future turn-based strategy games I build. Ideally I'd even love to open-source the server portion and allow other, less technical developers to start making this kind of game so that I can start playing them. =)
 

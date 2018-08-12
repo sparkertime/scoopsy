@@ -9,6 +9,7 @@ tags: unity3d ourmandragon
 When I [last submitted an Ludum Dare game](/ld23-its-over-a-postmortem), I gave myself an MS Paint trophy. I submitted another game, one I daresay is a bit better than the last, so here's my reward.
 
 ![](/images/2013-12-30-trophy.jpg)
+
 _that's some CGI right there in case you can't tell._
 
 This LD was a blast. I spent the weekend hacking with four colleagues from Braintree and we had ourselves a hootenanny.
