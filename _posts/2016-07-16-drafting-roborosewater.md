@@ -1,6 +1,9 @@
 ---
 title:  Drafting RoboRosewater
 tags:   mtg
+header:
+  teaser: /images/2016-07-16-packs.jpg
+excerpt: Real humans playing with AI-generated Magic cards. Broken hilarity ensures.
 ---
 
 ![]({{ "/images/2016-07-16-packs.jpg" | absolute_url }})
