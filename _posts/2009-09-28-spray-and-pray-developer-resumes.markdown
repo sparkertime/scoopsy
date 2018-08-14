@@ -1,5 +1,7 @@
 ---
 title: Spray-and-Pray Developer Resumes
+header:
+  teaser: /images/2009-09-28-resume.jpg
 ---
 
 ![](/images/2009-09-28-resume.jpg)

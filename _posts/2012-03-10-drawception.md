@@ -1,6 +1,7 @@
 ---
-title:  cats
-date:   2012-03-10
+title:  drawception
+header:
+  teaser: /images/2012-03-10-drawception.png
 ---
 
 ![](/images/2012-03-10-drawception.png)
