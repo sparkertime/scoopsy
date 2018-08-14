@@ -1,10 +1,9 @@
 ---
 title:  Drafting RoboRosewater
-date:   2016-07-16
 tags:   mtg
 ---
 
-![](/images/2016-07-16-packs.jpg)
+![]({{ "/images/2016-07-16-packs.jpg" | absolute_url }})
 
 I love, love, _love_ the [RoboRosewater](https://twitter.com/RoboRosewater) Twitter account. It brought me back into Magic after a 18 year hiatus. Most of the cards are hilarious gibberish, some are playable or near-playable, and some few are both playable and novel cards. After following the RoboRosewater account for a long time, I decided to build a draft set out of the cards from or derived from RoboRosewater cards. How hard could that be?
 

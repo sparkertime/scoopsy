@@ -1,7 +1,6 @@
 ---
 title:  Herzog Goes Bananas
-date:   2013-07-09
-tags: paulftompkins
+tags: paulftompkins tumblr
 ---
 
 ### Paul F. Tompkins as Werner Herzog on Comedy Bang! Bang!

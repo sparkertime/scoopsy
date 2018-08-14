@@ -1,6 +1,6 @@
 ---
 title:  highly curious
-date:   2013-04-05
+tags: tumblr
 ---
 
 ![](/images/2013-04-05-turtle-1.jpg)

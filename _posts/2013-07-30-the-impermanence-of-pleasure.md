@@ -1,6 +1,6 @@
 ---
 title:  the impermanence of pleasure
-date:   2013-07-30
+tags: tumblr
 ---
 
 ![](/images/2013-07-30-image-1.jpg)

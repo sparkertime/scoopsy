@@ -1,6 +1,6 @@
 ---
 title:  Elegance Road
-date:   2013-06-18
+tags: tumblr
 ---
 
 ![](/images/2013-06-18-elegance-1.jpg)

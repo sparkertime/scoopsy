@@ -1,6 +1,6 @@
 ---
 title:  city of anarchy
-date:   2013-04-12
+tags: tumblr
 ---
 
 ![](/images/2013-04-12-city-of-anarchy.jpg)

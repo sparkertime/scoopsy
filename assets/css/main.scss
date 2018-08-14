@@ -18,3 +18,13 @@
 .greedy-nav a {
   color: #F2385A;
 }
+
+.page__content {
+  width: 600px;
+}
+
+.page__content img, .page__content twitterwidget {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+}
