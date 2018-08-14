@@ -6,7 +6,7 @@ header:
   teaser: /images/2018-08-13-oink.png
 ---
 
-![]({{ "/images/2018-08-13-oink.png" | absolute_url }})
+{% include figure caption='Oink Games games really are teensy.' image_path="/images/2018-08-13-oink.png" %}
 
 Recently I returned from the Best Four Days in Gaming, [GenCon](http://www.gencon.com). In between roleplaying games of demon battling, cyberhacking, and union negotiating, I managed to fit in a fair number of board games. In no particular order, here’s some micro-reviews.
 
