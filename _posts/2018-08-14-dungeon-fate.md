@@ -3,6 +3,7 @@ title: Dungeon Fate
 header:
   teaser: /images/2018-08-14-dungeon-fate.jpg
 excerpt: My mashup of Dungeon World and Fate Accelerated. It's a mixed success.
+tags: rpg dungeon-world fate
 ---
 
 ![]( {{ "/images/2018-08-14-dungeon-fate.jpg" | absolute_url }})
@@ -61,7 +62,7 @@ This played out pretty close to how I hoped, so I'm pretty happy with this hack.
 
 GMing this system is also a breeze - everything has the same fixed difficulty and if you don't like that, you spend some fate points to make it harder for narratively interesting reasons. This was an end run around one of my only problems with Dungeon World's fixed difficulties - new characters are too challenged by everything, experienced characters breeze through everything. 
 
-That said, I need to spend some time playing with [AnyDice](https://anydice.com/) probabilities before I return this to the table. It was a little too easy most of the time - I saw fewer failures and blanks than I wanted to. Classic Dungeon World leans hard on the middle "7 to 9" results to generate narrative and we missed out on the those complications in our game. It was mostly a story of things going to plan with the exception of our terribly unlucky warrior princess.
+That said, I need to spend some time playing with [AnyDice](https://anydice.com/) probabilities before I return this to the table. It was a little too easy most of the time - I saw fewer failures and blanks than I wanted to. Classic Dungeon World leans hard on the middle "7 to 9" results to generate narrative and we felt the absence of those complications in our game. It was mostly a story of things going to plan with the exception of our terribly unlucky warrior princess.
 
 I may also take a look at adding some simple stunts back if I can figure out a way to do it that doesn't require players to spend a bunch of time brainstorming how they mechanically work. That's always been my challenge with stunts in Fate but that's a topic for another time.
 
