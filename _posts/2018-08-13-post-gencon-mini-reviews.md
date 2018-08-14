@@ -1,7 +1,12 @@
 ---
 title:  GenCon 2018 Mini-Reviews
 tags:   boardgames review
+excerpt: Recently I returned from the Best Four Days in Gaming,  GenCon. In no particular order, here’s some microreviews of what I played.
+header:
+  teaser: /images/2018-08-13-oink.png
 ---
+
+![]({{ "/images/2018-08-13-oink.png" | absolute_url }})
 
 Recently I returned from the Best Four Days in Gaming, [GenCon](http://www.gencon.com). In between roleplaying games of demon battling, cyberhacking, and union negotiating, I managed to fit in a fair number of board games. In no particular order, here’s some micro-reviews.
 
