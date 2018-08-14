@@ -16,7 +16,7 @@ Inspired by Rob Donoghue's [Blades of Fate](http://walkingmind.evilhat.com/2017/
 
 ## Goals
 
-I love the core conceit of Apocalypse-engine games - failure is frequent and interesting. However, I wanted to graft that onto Fate's narratively impactful aspects and a system that didn't assume any particular type of narrative direction. I love PbtA games but their magic is in how strongly they capture their settings. By contrast, we didn't know anything about our setting until we sat down to talk about our characters and start playing. 
+I love the core conceit of Dungeon World - failure is frequent and interesting. However, I wanted to graft that onto Fate's narratively impactful aspects and a system that didn't assume any particular setting. Dungeon World's magic is in how well it evokes classic fantasy roleplaying. By contrast, we knew nothing about our setting until we sat down to talk about our characters and start playing. 
 
 ## Dice Rolling
 
