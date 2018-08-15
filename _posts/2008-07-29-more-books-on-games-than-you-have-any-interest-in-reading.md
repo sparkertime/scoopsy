@@ -52,7 +52,7 @@ Each of these stories within is told in terms of the human impact upon the gamer
 
 Before there was Second Life and EverQuest and even DOOM, there were online text-based worlds that allowed people to be anyone and create anything, as long as they could describe it in words. Worlds were created, love was found, and friends made.
 
-Then someone was publicly raped. Or maybe they weren't, depending on where you stand. In response there was mob justice, or actual justice, or the deletion of a simple record in some database far away. I'm still not sure what I think, it's tough to sort out.
+Then someone was publicly assaulted in one of these worlds. Or maybe they weren't, depending on where you stand. In response there was mob justice, or actual justice, or the deletion of a simple record in some database far away. I'm still not sure what I think, it's tough to sort out.
 
 Years before most people even heard of the Internet, Julian Dibbell was exploring one particular online world in depth. He chronicled his own personal friendships as well as the larger problems of the world. This means you're right there with him as anarchists and socialists have to come to uneasy settlements on how much virtual government they need, as well the first time he explores the meaning of cybersex and its impact upon his real-world relationship.
 
